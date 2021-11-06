@@ -1,0 +1,11 @@
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\bin\Debug\QL_BANHANG.exe.config
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\bin\Debug\QL_BANHANG.exe
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\bin\Debug\QL_BANHANG.pdb
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.csprojAssemblyReference.cache
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.Form1.resources
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.Properties.Resources.resources
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.csproj.GenerateResource.cache
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.csproj.CoreCompileInputs.cache
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.exe
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.pdb
+D:\đại học\hk1 năm 3\Cơ sở dữ liệu nâng cao\QL_BANHANG\QL_BANHANG\obj\Debug\QL_BANHANG.FormQLDH.resources
